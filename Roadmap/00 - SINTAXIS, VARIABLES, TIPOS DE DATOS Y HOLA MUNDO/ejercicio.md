@@ -28,6 +28,37 @@
  * debemos comenzar por el principio.
  */
 ```
+ Crea un comentario en el código y coloca la URL del sitio web oficial del
+ *   lenguaje de programación que has seleccionado.
+# [https://github.com/mouredev/roadmap-retos-programacion/edit/main/Roadmap/00%20-%20SINTAXIS%2C%20VARIABLES%2C%20TIPOS%20DE%20DATOS%20Y%20HOLA%20MUNDO/ejercicio.md](https://www.python.org/)
+
+
+Representa las diferentes sintaxis que existen de crear comentarios
+ *   en el lenguaje (en una línea, varias...).
+#syntaxis
+  -variables
+  -estructura de control
+  -funciones
+  -entrada/salida
+
+#- Crea una variable (y una constante si el lenguaje lo soporta).
+nombre = "Brandon"
+nombreApe = ("Me llamo " + nombre)
+
+Crea variables representando todos los tipos de datos primitivos
+ *   del lenguaje (cadenas de texto, enteros, booleanos...).
+ *     nombre = "Miguel"
+ *     dolares = 3.74
+ *     cantColors = 12
+ *     edad = true/false
+
+   Imprime por terminal el texto: "¡Hola, [y el nombre de tu lenguaje]!"
+
+       nombreLenguaje = "Python!"
+       print("Hola "  + nombreLenguaje)
+   
+
+
 #### Tienes toda la información extendida sobre el roadmap de retos de programación en **[retosdeprogramacion.com/roadmap](https://retosdeprogramacion.com/roadmap)**.
 
 Sigue las **[instrucciones](../../README.md)**, consulta las correcciones y aporta la tuya propia utilizando el lenguaje de programación que quieras.
